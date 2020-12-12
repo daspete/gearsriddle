@@ -27,7 +27,6 @@
             </div>
 
             <div class="step__buttons">
-                <button class="btn btn--cancel" @click="Exit">Nein, ich kann gerade nicht</button>
                 <button class="btn btn--confirm" @click="SetStep(2)">Ja klar!</button>
             </div>
         </div>

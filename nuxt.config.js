@@ -1,6 +1,10 @@
 export default {
     target: 'static',
 
+    head: {
+        title: 'Die Schatzkiste'
+    },
+
     css: [
 
     ],
